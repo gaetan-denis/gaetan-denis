@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there, I'm Gaëtan 👋
 
-<!--
-**gaetan-denis/gaetan-denis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer currently working on music-related apps using Symfony and Vue.js.
 
-Here are some ideas to get you started:
+🎸 Blues guitarist on the side  
+🐧 Slackware Linux enthusiast  
+🚀 Exploring the world of open source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- PHP / Symfony
+- JavaScript / Vue.js
+- Git / GitHub
+- MySQL / SQLite
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  
