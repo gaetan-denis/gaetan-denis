@@ -12,5 +12,5 @@ I'm a passionate web developer currently working on music-related apps using Sym
 - Git / GitHub
 - MySQL / SQLite
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,symfony,vue,mysql,git, github,gitlab,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,symfony,vue,mysql,git,github,gitlab)](https://skillicons.dev)
   
