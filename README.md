@@ -3,7 +3,9 @@
 I'm a passionate web developer currently working on music-related apps using Symfony and Vue.js.
 
 🐧 Slackware Linux enthusiast  
+
 🚀 Exploring the world of open source
+
 🎸 Blues guitarist on the side 
 
 ## 🛠️ Tech Stack
