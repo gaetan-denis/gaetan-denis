@@ -1,13 +1,14 @@
 # Hey there, I'm Gaëtan 👋
 
-I'm a passionate web developer currently working on music-related apps using Symfony and Vue.js.
+Web developer, fan of clean code and minimalist setups 💻. 
 
-🐧 Slackware Linux enthusiast  
+Experienced with PHP/Symfony, C#/.NET 8, React, and TypeScript, I enjoy building projects that combine structure, efficiency, and fun. 
 
-🚀 Exploring the world of open source
+My final year project? A full-featured music app 🎵 for creating interactive songbooks and managing chords — a way to bring together my two passions: code + music. 
 
-🎸 Blues guitarist on the side 
+Curious about C, Java, and structured backend ⚙️, I’m always exploring modern web technologies and refining my Linux setup. My repos include experimental projects, exercises, and concept tests — feel free to take a look 📩.
 
+Blues guitarist on the side 🎸.
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,symfony,vue,mysql,bootstrap,git,github,gitlab,cs,dotnet,react,java)](https://skillicons.dev)
   
