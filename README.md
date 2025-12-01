@@ -1,16 +1,46 @@
 # Hey there, I'm Gaëtan 👋
 
-Web developer, fan of clean code and minimalist setups 💻. 
+Web developer focused on clean code, solid backend foundations, and minimalist setups 💻.  
+My main stacks are **PHP/Symfony** and **JavaScript/Vue.js**, where I feel the most productive and creative.
 
-Experienced with PHP/Symfony, C#/.NET 8, React, and TypeScript, I enjoy building projects that combine structure, efficiency, and fun. 
+I also have experience with **React**, **TypeScript**, **C#/.NET 8**, and **WordPress** from my training and internship, and I’m always exploring new technologies to broaden my toolbox.
 
-My final year project? A full-featured music app 🎵 for creating interactive songbooks and managing chords — a way to bring together my two passions: code + music. 
+Blues guitarist on the side 🎸 — a passion that inspired my final-year project, **Songbook**.
 
-Curious about C, Java, and structured backend ⚙️, I’m always exploring modern web technologies and refining my Linux setup. 
+### 🎵 Code + Music  
+My final year project, **Songbook**, is a complete **interactive music application** for creating songbooks, managing chords, and organizing setlists — the perfect link between my passion for software and my background in music.
 
-My repos include experimental projects, exercises, and concept tests — feel free to take a look 📩.
+### 🔍 What you’ll find here  
+- Full-stack PHP/Symfony projects  
+- Vue.js front-end experiments  
+- Backend concepts, exercises, and prototypes  
+- Some React/TypeScript, .NET, and WordPress projects from training  
+- Small tools and utilities I iterate on regularly  
 
-Blues guitarist on the side 🎸.
+I’m currently looking for a junior **full-stack or backend** position — feel free to reach out 📩
+
+---
+
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,symfony,vue,mysql,bootstrap,git,github,gitlab,cs,dotnet,react,java)](https://skillicons.dev)
+
+### 🌐 Main  
+[![Main Skills](https://skillicons.dev/icons?i=php,symfony,js,vue,mysql,git,github,linux)](https://skillicons.dev)
+
+### 🎯 Also experienced with  
+[![Other Skills](https://skillicons.dev/icons?i=react,ts,cs,dotnet,bootstrap,wordpress)](https://skillicons.dev)
+
+---
+
+## 🌱 Currently learning  
+- C (low-level fundamentals)  
+- Java (OOP + Spring basics)  
+- Architecture & backend design patterns  
+- Performance and clean code best practices  
+
+---
+
+## 📫 Contact  
+- **Email**: gaetan.denis@outlook.be  
+- **LinkedIn**: *([add your link here](https://www.linkedin.com/in/gaëtan-denis/))*
+
   
