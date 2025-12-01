@@ -41,6 +41,6 @@ I’m currently looking for a junior **full-stack or backend** position — feel
 
 ## 📫 Contact  
 - **Email**: gaetan.denis@outlook.be  
-- **LinkedIn**: *([Linkedin](https://www.linkedin.com/in/gaëtan-denis/))*
+- **LinkedIn**: *https://www.linkedin.com/in/gaëtan-denis*
 
   
