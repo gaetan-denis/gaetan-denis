@@ -3,7 +3,7 @@
 Web developer focused on clean code, solid backend foundations, and minimalist setups 💻.  
 My main stacks are **PHP/Symfony** and **JavaScript/Vue.js**, where I feel the most productive and creative.
 
-I also have experience with **React**, **TypeScript**, **C#/.NET 8**, and **WordPress** from my training and internship, and I’m always exploring new technologies to broaden my toolbox.
+I also have experience with **React**, **TypeScript**, **C#/.NET 8**, **WordPress**, **Tailwind**, and **GitLab** from my training and internship, and I’m always exploring new technologies to broaden my toolbox.
 
 Blues guitarist on the side 🎸 — a passion that inspired my final-year project, **Songbook**.
 
@@ -14,7 +14,7 @@ My final year project, **Songbook**, is a complete **interactive music applicati
 - Full-stack PHP/Symfony projects  
 - Vue.js front-end experiments  
 - Backend concepts, exercises, and prototypes  
-- Some React/TypeScript, .NET, and WordPress projects from training  
+- Some React/TypeScript, .NET, WordPress, Tailwind, and GitLab projects from training  
 - Small tools and utilities I iterate on regularly  
 
 I’m currently looking for a junior **full-stack or backend** position — feel free to reach out 📩
@@ -27,7 +27,7 @@ I’m currently looking for a junior **full-stack or backend** position — feel
 [![Main Skills](https://skillicons.dev/icons?i=php,symfony,js,vue,mysql,git,github,linux)](https://skillicons.dev)
 
 ### 🎯 Also experienced with  
-[![Other Skills](https://skillicons.dev/icons?i=react,ts,cs,dotnet,bootstrap,wordpress)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=react,ts,cs,dotnet,bootstrap,wordpress,tailwind,gitlab)](https://skillicons.dev)
 
 ---
 
@@ -40,7 +40,5 @@ I’m currently looking for a junior **full-stack or backend** position — feel
 ---
 
 ## 📫 Contact  
-- **Email**: gaetan.denis@outlook.be  
-- **LinkedIn**: *https://www.linkedin.com/in/gaëtan-denis*
-
-  
+- Email: gaetan.denis@outlook.be (feel free to reach out 📩)  
+- LinkedIn: https://www.linkedin.com/in/gaëtan-denis
