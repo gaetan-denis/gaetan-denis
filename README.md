@@ -8,7 +8,7 @@ I also have experience with **React**, **TypeScript**, **C#/.NET 8**, **WordPres
 Blues guitarist on the side 🎸 — a passion that inspired my final-year project, [_Songbook_](https://github.com/gaetan-denis/songbook).
 
 ### 🎵 Code + Music  
-My final year project, [__Songbook__](https://github.com/gaetan-denis/songbook), is a complete **interactive music application** for creating songbooks, managing chords, and organizing setlists — the perfect link between my passion for software and my background in music.
+My final year project, [_Songbook_](https://github.com/gaetan-denis/songbook), is a complete **interactive music application** for creating songbooks, managing chords, and organizing setlists — the perfect link between my passion for software and my background in music.
 
 ### 🔍 What you’ll find here  
 - Full-stack PHP/Symfony projects  
