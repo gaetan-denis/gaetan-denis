@@ -24,7 +24,7 @@ I’m currently looking for a junior **full-stack or backend** position — feel
 ## 🛠️ Tech Stack
 
 ### 🌐 Main  
-[![Main Skills](https://skillicons.dev/icons?i=php,symfony,js,vue,mysql,git,github)](https://skillicons.dev)
+[![Main Skills](https://skillicons.dev/icons?i=php,symfony,js,vue,mysql,git,github,scss)](https://skillicons.dev)
 
 ### 🎯 Also experienced with  
 [![Other Skills](https://skillicons.dev/icons?i=react,ts,cs,dotnet,laravel,bootstrap,wordpress,tailwind,gitlab,linux))](https://skillicons.dev)
